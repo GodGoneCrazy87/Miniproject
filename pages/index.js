@@ -20,7 +20,7 @@ const Home = () => {
               exit="hidden" 
               className="h1">
               Do you believe your Networks are Secure?<br />{''} 
-              <span className="text-accent"> Let's do a reality check </span>
+              <span className="text-accent"> Let us do a reality check </span>
             </motion.h1>
             <motion.p
               variants={fadeIn('down', 0.3)} 
